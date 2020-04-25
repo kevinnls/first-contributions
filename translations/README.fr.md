@@ -6,13 +6,26 @@
 
 # Premières Contributions
 
-C'est toujours compliqué la première fois que l'on fait quelque chose. La peur de faire des fautes n'est pas du tout confortable, spécialement quand vous collaborez. Mais le monde du logiciel libre est fait de collaboration et de travail de groupe. Aussi, nous voulons simplifier l'apprentissage des nouveaux contributeurs au logiciel libre en vous enseignant à contribuer pour la première fois.  
+C'est toujours compliqué la première fois que l'on fait quelque chose. La peur de faire des fautes n'est pas légère, particulièrement quand on travaille en collaboration. Donc, nous voulons simplifier ce monde pour des nouveaux contributeurs au logiciel libre en vous enseignant à contribuer pour la première fois.
 
-Lire des articles et des tutoriels peut aider, mais qu'y a-t-il de mieux que d'essayer sans pouvoir faire d'erreurs ? Ce projet a pour ambition de fournir des conseils et simplifier la manière dont les apprentis font leur première contribution. Souvenez-vous : plus vous êtes serein, mieux vous apprenez. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes. Promis, ce sera amusant.
+Lisant des articles et des tutoriels peut aider, mais n'est-il pas mieux de essayer les choses pratiquement et apprendre de nos erreurs ? C'est là que ce monde se différencie d'autrui. Et ce projet a le but de simplifier la manière dont les apprentis font leur première contribution. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes.
+
+# Objectifs
+
+Vous deviendrez collaborateur dans notre projet en ajoutant votre nom au fichier [Contributors.md](Contributors.md "Liste des Contributeurs")
+
+Pour achèver cet objectifs nous allons:
+1. Créer une copie de ce projet
+2. Ajouter votre nom dans la copie
+3. Combiner la copie avec le projet original
+
+## Préparez-vous
+
+Si vous préfèrez un outil graphique à la console, voyez [ces tutoriels.](#tutoriels-en-utilisant-des-outils-graphiques)\
+Si vous êtes à l'aise avec la console, mais vous n'avez pas Git sur votre ordinateur, [ installez-le ]( https://help.github.com/articles/set-up-git/ ).
+
 
 <img align="right" width="300" src="../assets/fork.png" alt="embrancher ce repertoire" />
-
-Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.github.com/articles/set-up-git/ ).
 
 ## Embranchez ce répertoire (aussi appelé un Fork)
 
@@ -21,7 +34,8 @@ Cela va créer une copie du répertoire sur votre compte.
 
 ## Clonez ce répertoire
 
-<img align="right" width="300" src="../assets/clone.png" alt="clonez ce répertoire" />
+<img align="left" width="300" src="../assets/clone.png" alt="clonez ce répertoire" />
+<img width="300" src="../assets/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier"/>
 
 Maintenant, clonez ce répertoire sur votre ordinateur. Cliquez sur le bouton clone puis cliquez sur l'icone *copier dans le presse-papier*.
 
@@ -32,7 +46,7 @@ git clone "l'url que vous venez de copier"
 ```
 où "l'url que vous venez de copier" (sans les guillemets) est l'url du répertoire. Voir la section précédente afin d'obtenir l'url.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier"/>
 
 Par exemple :
 ```
